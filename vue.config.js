@@ -1,3 +1,4 @@
 module.exports = {
-  publicPath: "/menu-demo/"
+  publicPath: "/menu-demo/",
+  outputDir: "docs",
 }
